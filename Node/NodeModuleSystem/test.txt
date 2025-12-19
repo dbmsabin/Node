@@ -1,0 +1,2 @@
+Writing to a file using fs module
+Appending this line to the file.
